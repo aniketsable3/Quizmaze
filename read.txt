@@ -1,0 +1,8 @@
+1.create a table called quizmaze in xampp
+ sno(ai),username,email,password
+
+2.create a table called quiz_score in xampp
+score_id(ai) , sno(foriegn key),score_id
+
+3.create a table thread
+id,username,category_description
