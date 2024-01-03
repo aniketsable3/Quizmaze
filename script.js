@@ -9,6 +9,7 @@ const quizData = [
         options: ["Mars", "Jupiter", "Venus", "Saturn"],
         correctAnswer: "Mars"
     },
+    
     // Add more questions as needed
 ];
 
